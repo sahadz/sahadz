@@ -8,7 +8,7 @@
 - 👯 I’m looking to collaborate on Project
 - 🤔 I’m looking for help with Open Source
 - 💬 Ask me about anything
-- 📫 How to reach me: Telegram - [@x_row](https://t.me/x_row)
+- 📫 How to reach me: Telegram - [sahad.p](https://t.me/sahad_p)
 - ⚡ fact: I am a Noobie
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=sahadz&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
